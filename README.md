@@ -9,7 +9,7 @@ It is simple though very usefull system made using JSP
 
  - Attendee creating username and selecting events:
  
- ![Main form](https://github.com/karanb786/event_management/blob/main/enter_attendee name.png?raw=true)
+ ![Main form](https://github.com/karanb786/event_management/blob/main/enter_attendeename.png?raw=true)
  
  ![Main form](https://github.com/karanb786/event_management/blob/main/confirm_attendee.png?raw=true)
  
